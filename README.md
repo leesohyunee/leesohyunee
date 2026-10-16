@@ -15,7 +15,7 @@ I've used Python for data analysis in the past, and I'm now learning to build re
 - Working with AI coding agents: clear rules (CLAUDE.md), a shared progress log, and reviewing changes before I publish
 - Local vs cloud coding sessions, and what each one can reach
 
-#### 🧰 My Experience
+#### 📁 My Experience
 I've spent my career on the business side of tech. I was a product strategist for an autonomous blood-drawing robot, led zero-to-one EMEA market entry for AI MRI software, and co-founded two startups.
 I'm used to turning user research into product requirements and working closely with engineers. Now I'm learning to build some of it myself.
 

@@ -14,7 +14,7 @@ I've used Python for data analysis in the past, and I'm now learning to build re
 - `Astro` · `Vercel` · built with `Claude Code`
 - Every change goes out on its own branch with a Vercel preview link before it goes live
 
-**[wedding-run-poodle](https://github.com/leesohyunee/wedding-run-poodle)** · the game I made as our wedding invitation
+**[wedding-run-poodle](https://leesohyunee.github.io/wedding-run-poodle/)** · the game I made as our wedding invitation
 - Just started rebuilding it as v2
 
 **Small AI tools for everyday life** · starting with a goal and habit tracker for my MBA life
